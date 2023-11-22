@@ -1,0 +1,20 @@
+{
+  "name": "nodetest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushwantjangid/nodetest1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khushwantjangid/nodetest1/issues"
+  },
+  "homepage": "https://github.com/khushwantjangid/nodetest1#readme"
+}
